@@ -1,4 +1,0 @@
-- name: Hugo gh-pages action
-# You may pin to the exact commit or the version.
-# uses: mattbailey/actions-hugo@6db069c2aabafa6ee3a9838933c78f546ce5104e
-uses: mattbailey/actions-hugo@v0.57.2
