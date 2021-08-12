@@ -57,12 +57,8 @@
 <lastmod>2017-10-21T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017/10/22/coloring-book/</loc>
-<lastmod>2017-10-22T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/2017/10/23/polaroid-williamsburg/</loc>
-<lastmod>2017-10-23T00:00:00-07:00</lastmod>
+<loc>http://localhost:4000/2020/01/01/Mama-Rabbit/</loc>
+<lastmod>2020-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020/08/15/Post-Modern-Stand/</loc>
@@ -71,6 +67,10 @@
 <url>
 <loc>http://localhost:4000/2020/08/20/Carlton-Stand/</loc>
 <lastmod>2020-08-20T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2021/08/11/Esperanza/</loc>
+<lastmod>2021-08-11T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404</loc>
@@ -98,6 +98,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/dummy-text/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/architecture/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/furniture/</loc>
