@@ -49,8 +49,8 @@
 <lastmod>2017-10-19T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2017/10/20/roof-party/</loc>
-<lastmod>2017-10-20T00:00:00-07:00</lastmod>
+<loc>http://localhost:4000/2020/01/20/2017-US-Championships/</loc>
+<lastmod>2020-01-20T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2020/08/15/On-the-Record/</loc>
@@ -98,6 +98,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/dummy-text/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/figure-skating/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/architecture/</loc>
