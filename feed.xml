@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Aug 2021 12:17:33 -0700</pubDate>
-    <lastBuildDate>Fri, 13 Aug 2021 12:17:33 -0700</lastBuildDate>
+    <pubDate>Sat, 14 Aug 2021 12:25:49 -0700</pubDate>
+    <lastBuildDate>Sat, 14 Aug 2021 12:25:49 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -182,6 +182,37 @@
       </item>
     
       <item>
+        <title>Microsoft Flagship Store &amp; Office</title>
+        <description>&lt;h4 id=&quot;information&quot;&gt;Information&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Location: London, UK&lt;/li&gt;
+  &lt;li&gt;Role: Associate Lighting Designer&lt;/li&gt;
+  &lt;li&gt;Architect/Interior Design: Gensler&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Microsoft-1.webp&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Microsoft-2.webp&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Microsoft-3.webp&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Microsoft-5.webp&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Microsoft-6.webp&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/03/19/Microsoft-Flagship/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/19/Microsoft-Flagship/</guid>
+        
+        <category>Architecture</category>
+        
+        <category>Lighting Design</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Arnold &amp; Porter Renovation</title>
         <description>&lt;h4 id=&quot;information&quot;&gt;Information&lt;/h4&gt;
 &lt;ul&gt;
@@ -236,36 +267,6 @@
         <guid isPermaLink="true">http://localhost:4000/2020/01/20/2017-US-Championships/</guid>
         
         <category>Figure Skating</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Blue Bottle</title>
-        <description>&lt;h1 id=&quot;bicycle-rights&quot;&gt;Bicycle Rights&lt;/h1&gt;
-&lt;p&gt;Subway tile iPhone hot chicken, pour-over kale chips synth godard distillery man braid forage raclette blue bottle. Ugh hashtag hammock gastropub meggings la croix four dollar toast VHS disrupt PBR&amp;amp;B narwhal farm-to-table pabst. Kinfolk brooklyn viral tilde humblebrag bicycle rights.&lt;/p&gt;
-
-&lt;p&gt;Slow-carb 90’s blue bottle godard meggings +1 helvetica. Chillwave tumeric bicycle rights mumblecore drinking vinegar cloud bread craft beer. Edison bulb chartreuse cray, fam hexagon bespoke pickled hell of butcher vaporware keytar adaptogen tumblr gochujang vegan. Glossier ramps chicharrones kickstarter. Typewriter cloud bread thundercats letterpress.&lt;/p&gt;
-
-&lt;p&gt;Swag normcore plaid gochujang irony. Shaman DIY humblebrag disrupt, slow-carb craft beer intelligentsia bitters bespoke photo booth kinfolk bicycle rights ennui meh street art. Distillery austin organic scenester butcher enamel pin before they sold out woke hell of poke banjo raw denim dreamcatcher marfa unicorn. Cloud bread air plant woke freegan banjo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/placeholder-17.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Microdosing shoreditch meggings sustainable. Seitan etsy mumblecore chambray slow-carb, glossier jianbing. Pabst crucifix brooklyn cliche, master cleanse poutine art party four loko readymade knausgaard selvage actually fashion axe. Four loko franzen kogi ethical tofu salvia.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/placeholder-29.jpg#full&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pinterest meditation raclette, hella roof party whatever hashtag godard. Intelligentsia brunch migas next level flannel. DIY affogato chillwave ethical kombucha schlitz. Wayfarers synth plaid tbh green juice iPhone twee coloring book master cleanse activated charcoal ramps williamsburg whatever cronut. Humblebrag kitsch dreamcatcher normcore freegan swag try-hard. Distillery cred palo santo squid. Wolf ramps cred iceland. Vaporware brooklyn hexagon, fam irony pour-over yuccie. Meh drinking vinegar poutine, chia sriracha pinterest bespoke palo santo kinfolk PBR&amp;amp;B lyft pabst.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 18 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/10/18/blue-bottle/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/18/blue-bottle/</guid>
-        
-        <category>Squid</category>
-        
-        <category>Moon Drinking</category>
-        
-        <category>Kale</category>
         
         
       </item>
