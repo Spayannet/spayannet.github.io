@@ -1,25 +1,24 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: sebastienpayannet@hotmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Sebastien Payannet
-title: Portfolio
+title: Studio Payannet
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  Portfolio of projects spanning different disciplines and styles.
+url: https://www.spayannet.com
 default_img: /assets/images/seo.jpg
 social:
   - name: instagram
     url: https://www.instagram.com/sebastienpayannet/
   - name: linkedin
-    url: https://www.linkedin.com/in/sebastienpayannet/
+    url: https://www.linkedin.com/in/sebastien-payannet/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+contact_img: /assets/images/PostModern-9.webp
+formcarry: https://formcarry.com/s/y51ieijybISf
 
 # Disqus settings
 disqus: test-apkdzgmqhj
@@ -32,7 +31,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 author:
   - name: Sebastien Payannet
     bio: Sebastien is a French-American designer based in Los Angeles
-    url: http://spayannet.com
+    url: https://www.spayannet.com
 
 # Pagination settings
 pagination:
